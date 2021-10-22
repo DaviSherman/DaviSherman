@@ -1,4 +1,4 @@
-<h1 align="center">OI 👋, E sou David Muniz de oliveira</h1>
+<h1 align="center">OI 👋, Eu sou David Muniz de Oliveira</h1>
 <h3 align="center">Sou Desenvolvedor Front-End, já fiz a criação de muitos websites e lojas virtuais, trabalhei com OpenCart e WordPress, desenvolvi sistema em PHP para rede de hotelaria, tenho conhecimento em CSS JAVASCRIPT, JQUERY, PHP, SQL, NODE.JS e GITHUB. Possuo conhecimento em Search Engine Optimization(SEO). Atualmente trabalhando com React JS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davisherman&label=Profile%20views&color=0e75b6&style=flat" alt="davisherman" /> </p>
