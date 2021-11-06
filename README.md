@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/david-muniz-de-oliveira-aa6a23140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-muniz-de-oliveira-aa6a23140/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/david.sherman.5621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/david.sherman.5621/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/davidsherman78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/davidsherman78/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
